@@ -14,3 +14,39 @@
 * HTML,CSS
 * Git
 
+## Code examples
+
+```function checkExam(array1, array2) {
+let result = 0;
+for(i=0;i<array1.length;i++){
+   if(array1[i] == array2[i]){
+ result+=4
+ }
+  else if(array1[i] = ""){
+    result+=result
+  }
+  else if(array1[i]!=array2[i]){
+  result+=-1
+  }
+    
+      
+}
+ if(result<0){
+  return 0
+}
+else{
+return result
+}
+}
+```
+## Experience
+
+### No work experience
+
+## Education
+
+### Higher technical education
+
+## English language
+
+### A1
