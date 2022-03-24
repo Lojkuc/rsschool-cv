@@ -1,0 +1,58 @@
+.img_me{
+    position: absolute;
+    background-image: url(me.jpg);
+    width: 40%;
+    left: 500px;
+    top: 26px;
+    border: 2px solid black;
+}
+body{
+    padding: 5px;
+    border: 10px solid black;
+    font-family: 'Open Sans', sans-serif;
+    max-width: 900px;
+    position: relative;
+    margin: 0 auto;
+    
+}
+.about_me{
+    width: 400px;
+}
+h1{
+display: inline;
+border: 3px solid black;
+width: 100%;
+}
+.header{
+    margin-top: 10px;
+}
+.nav li{
+    list-style: none;
+    margin-right: 4px;
+    background-color:pink;
+    border-radius: 5px;
+}
+.nav ul{
+    padding: 0;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.codewars{
+    color:blue;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.footer img {
+    width: 100%;
+}
+h2{
+    background-color: rgb(216, 216, 205);
+    
+}
